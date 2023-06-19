@@ -1,0 +1,9 @@
+* cl-qrencode
+
+QR code 2005 encoder in Common Lisp
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/jnjcc/cl-qrencode.git |
+| commit  | 0de2d8a                                      |
+| systems | cl-qrencode                                  |
+|---------+----------------------------------------------|
