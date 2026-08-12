@@ -7,4 +7,4 @@ QR code 2005 encoder in Common Lisp
 | commit  | 0de2d8a                                      |
 | systems | cl-qrencode                                  |
 |---------+----------------------------------------------|
- 
+  
